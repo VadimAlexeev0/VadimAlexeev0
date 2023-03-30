@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vadim <img src="https://komarev.com/ghpvc/?username=vadimalexeev0&label=Profile%20Views&color=613583&style=for-the-badge" alt="vadimalexeev0" /></h1>
-<h3 align="center">A Junior Full Stack JavaScript Developer</h3>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vadimalexeev0&label=Profile%20Views&color=613583&style=for-the-badge" alt="vadimalexeev0" /> </p>
+<h1 align="center">Hi 👋, I'm Vadim</h1>
+<h3 align="center">A Junior Full Stack JavaScript Developer <img src="https://komarev.com/ghpvc/?username=vadimalexeev0&label=Profile%20Views&color=613583&style=for-the-badge" alt="vadimalexeev0" /></h3>
 
 - 📫 How to reach me **vadim@alexeev.co.uk**
 
